@@ -133,5 +133,7 @@ ipython_config.py
 .dmypy.json
 dmypy.json
 
+.png
+
 # Pyre type checker
 .pyre/
